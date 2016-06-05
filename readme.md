@@ -1,0 +1,1 @@
+Kind of example for tinymce plugin integration in wordpress.
